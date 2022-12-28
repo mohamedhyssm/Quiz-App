@@ -1,0 +1,114 @@
+[
+  {
+    "title": "What does HTML stand for ?",
+    "answer_1": "Hyper Text Markup Language",
+    "answer_2": "Hyperlinks and Text Markup Language",
+    "answer_3": "Home Tool Markup Language",
+    "answer_4": "To Add Horizontal Line",
+    "right_answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Why We Use <br> Element ?",
+    "answer_1": "To Make Text Bold",
+    "answer_2": "To Make Text Italic",
+    "answer_3": "To Add Breakline",
+    "answer_4": "To Add Horizontal Line",
+    "right_answer": "To Add Breakline"
+  },
+  {
+    "title": "IS <img> Element Has Attribute href ?",
+    "answer_1": "Yes",
+    "answer_2": "No its For Anchor Tag <a>",
+    "answer_3": "All Elements Has This Attribute",
+    "answer_4": "To Add Horizontal Line",
+    "right_answer": "No its For Anchor Tag <a>"
+  },
+  {
+    "title": "How Can We Make Element Text Bold ?",
+    "answer_1": "Putting It Inside <b> Tag",
+    "answer_2": "Putting It Inside <Strong> Tag",
+    "answer_3": "Customizing It With Font-Wight Property Is CSS",
+    "answer_4": "All Answers Is Right",
+    "right_answer": "All Answers Is Right"
+  },
+  {
+    "title": "Who is making the Web standards?",
+    "answer_1": "The World Wide Web Consortium",
+    "answer_2": "Microsoft",
+    "answer_3": "Google",
+    "answer_4": "Mozilla",
+    "right_answer": "The World Wide Web Consortium"
+  },
+  {
+    "title": "Choose the correct HTML element for the largest heading:",
+    "answer_1": "<h1>",
+    "answer_2": "<head>",
+    "answer_3": "<h2>",
+    "answer_4": "<heading>",
+    "right_answer": "<h1>"
+  },
+  {
+    "title": "What is the correct HTML for adding a background color?",
+    "answer_1": "<background>yellow</background>",
+    "answer_2": "<body style='background-color:yellow;'>",
+    "answer_3": "<body bg='yellow'>",
+    "answer_4": "<img style='background-color:yellow;'>",
+    "right_answer": "<body style='background-color:yellow;'>"
+  },
+  {
+    "title": "Choose the correct HTML element to define important text",
+    "answer_1": "<strong>",
+    "answer_2": "<b>",
+    "answer_3": "<i>",
+    "answer_4": "<important>",
+    "right_answer": "<strong>"
+  },
+  {
+    "title": "Choose the correct HTML element to define emphasized text",
+    "answer_1": "<em>",
+    "answer_2": "<italic>",
+    "answer_3": "<i>",
+    "answer_4": "<emphasized>",
+    "right_answer": "<em>"
+  },
+  {
+    "title": "Which character is used to indicate an end tag ?",
+    "answer_1": "<",
+    "answer_2": "/",
+    "answer_3": "*",
+    "answer_4": ">",
+    "right_answer": "/"
+  },
+  {
+    "title": "How can you open a link in a new tab/browser window ?",
+    "answer_1": "<a href='url' target='new'>",
+    "answer_2": "<a href='url' new>",
+    "answer_3": "<a href='url' target='_blank'>",
+    "answer_4": "<a href='url' target='_self'>",
+    "right_answer": "<a href='url' target='_blank'>"
+  },
+  {
+    "title": "What is the correct HTML for inserting an image ?",
+    "answer_1": "<img src='image.gif' alt='MyImag'>",
+    "answer_2": "<image src='image.gif' alt='MyImage'>",
+    "answer_3": "<img alt='MyImage'>image.gif</img>",
+    "answer_4": "<img href='image.gif' alt='MyImage'>",
+    "right_answer": "<img src='image.gif' alt='MyImag'>"
+  },
+  {
+    "title": "The HTML <canvas> element is used to:",
+    "answer_1": "create draggable elements",
+    "answer_2": "manipulate data in MySQL",
+    "answer_3": "draw graphics",
+    "answer_4": "display database records",
+    "right_answer": "draw graphics"
+  },
+  {
+    "title": "In HTML, which attribute is used to specify that an input field must be filled out ?",
+    "answer_1": "formvalidate",
+    "answer_2": "placeholder",
+    "answer_3": "validate",
+    "answer_4": "required",
+    "right_answer": "required"
+  }
+]

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz App</title>
+  <link rel="stylesheet" href="CSS/bootstrap.min.css">
+</head>
+
+<body class="bg-dark text-light">
+  <!-- quiz container -->
+  <div class="quiz-app container mt-4 p-2">
+    <!-- quiz info -->
+    <div class="quiz-info row">
+      <div class="category col">Category: <span>HTML</span></div>
+      <div class="count col text-end">The number of questions is: <span></span></div>
+    </div>
+    <!-- question -->
+    <div class="quiz-area pd-4 pt-4 mt-3"></div>
+    <!-- answers -->
+    <div class="answers-area">
+      <div class="answers">
+      </div>
+    </div>
+    <!-- button submit -->
+    <div class="submit-button text-end">
+      <button class="btn btn-primary">next question</button>
+    </div>
+    <!-- Timer -->
+    <div class="countdown fs-5 d-flex justify-content-between mt-5 p-3 border-top">
+      <div class="timer"></div>
+      <div class="counter ">Question number: <span></span> </div>
+    </div>
+    <!-- result -->
+    <div class="results mt-4 text-center fs-5"></div>
+    <script src="JS/bootstrap.bundle.min.js"></script>
+    <script src="JS/main.js"></script>
+</body>
+
+</html>
