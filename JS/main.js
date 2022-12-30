@@ -17,6 +17,15 @@ let numberOfQuestions = document.querySelector(".quiz-app .quiz-info .count span
   rightAnswarLength = 0,
   timeExam = 20 * 60
 
+let radioChange = document.querySelector(".radio-change input")
+
+radioChange.onclick = function () {
+  document.body.classList.toggle("bg-light")
+  document.body.classList.toggle("bg-dark")
+  document.body.classList.toggle("text-light")
+  document.body.classList.toggle("text-dark")
+}
+
 function getQuestions() {
   let myRequest = new XMLHttpRequest();
 
@@ -79,7 +88,7 @@ function questionData(question) {
   for (let i = 0; i < 4; i++) {
     // form Check 
     let containerRadio = document.createElement("div");
-    containerRadio.classList.add("form-check", "mb-3")
+    containerRadio.classList.add("form-check", "col-12", "col-md-6")
     // radio button
     let radioInput = document.createElement("input");
     radioInput.name = "question";
